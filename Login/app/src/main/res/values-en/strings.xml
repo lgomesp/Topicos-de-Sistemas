@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usuario">User</string>
+    <string name="senha">Password</string>
+    <string name="entrar">Login</string>
+    <string name="cadastrar">Sign up</string>
+    <string name="cadastro">Registrer</string>
+    <string name="bem_vindo">Welcome</string>
+    <string name="sair">Logout</string>
+</resources>
